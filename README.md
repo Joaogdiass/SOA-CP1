@@ -20,7 +20,7 @@ Este projeto é uma **API REST** para gerenciamento de pedidos, utilizando **Spr
 
 1. **Clone o repositório**:
    ```sh
-   git clone <https://github.com/Joaogdiass/SOA-CP1>
+   git clone https://github.com/Joaogdiass/SOA-CP1
    cd checkpoint1
    ```
 
