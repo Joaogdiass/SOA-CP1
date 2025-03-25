@@ -103,5 +103,4 @@ Para testar os endpoints, utilize:
 - **📌 Insomnia**
 - **📌 cURL**
 
-🚀 _Bom desenvolvimento!_
 
