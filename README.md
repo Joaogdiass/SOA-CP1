@@ -63,6 +63,9 @@ Este projeto é uma **API REST** para gerenciamento de pedidos, utilizando **Spr
   }
   ```
 
+  ![alt text](image.png)
+  ![alt text](image-1.png)
+
 ### 📋 Buscar Todos os Pedidos
 - **URL:** `GET /pedidos`
 - **Resposta:**
@@ -76,10 +79,14 @@ Este projeto é uma **API REST** para gerenciamento de pedidos, utilizando **Spr
     }
   ]
   ```
+  ![alt text](image-2.png)
 
 ### 🔍 Buscar Pedido por ID
 - **URL:** `GET /pedidos/{id}`
 - **Exemplo:** `GET /pedidos/1`
+
+![alt text](image-3.png)
+
 
 ### ✏️ Atualizar um Pedido
 - **URL:** `PUT /pedidos/{id}`
@@ -90,12 +97,16 @@ Este projeto é uma **API REST** para gerenciamento de pedidos, utilizando **Spr
     "valorTotal": 200.00
   }
   ```
+![alt text](image-5.png)
+  
 
 ### ❌ Excluir um Pedido
 - **URL:** `DELETE /pedidos/{id}`
 - **Exemplo:** `DELETE /pedidos/1`
 
+![alt text](image-4.png)
 ---
+
 
 ## 🔬 Testando a API
 Para testar os endpoints, utilize:
